@@ -5,7 +5,7 @@
 // @supportURL   https://github.com/uncenter/refined-github-notes/issues
 // @namespace    uncenter/refined-github-notes
 // @version      0.1.0
-// @description  Add and save notes for pull requests on GitHub (why did I turn on notifications for this??)
+// @description  Write notes for pull requests on GitHub.
 // @author       uncenter
 // @match        https://github.com/**
 // @grant        none
